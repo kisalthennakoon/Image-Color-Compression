@@ -6,6 +6,7 @@ This project compresses images by reducing the number of colors using a custom K
 
 - [Introduction](#introduction)
 - [Features](#features)
+- [Requirements](#requirements)
 - [Usage](#usage)
 - [License](#License)
 
@@ -17,6 +18,19 @@ This project implements an image color compression technique using a custom K-me
 
 - **Custom K-Means Clustering Algorithm:** Implements a custom K-means algorithm to create centroids and assign samples.
 - **Image Color Compression:** Compresses images by reducing the number of colors.
+
+## Requirements
+
+To run this project, you need the following libraries:
+
+- numpy
+- matplotlib
+- scikit-learn
+
+## Usage
+1. Open the Jupyter Notebook in Weather Prediction file.
+2. Install all the requirements mentioned in under the requarements title
+3. Run all cells to and comare the images.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
