@@ -6,6 +6,8 @@ This project compresses images by reducing the number of colors using a custom K
 
 - [Introduction](#introduction)
 - [Features](#features)
+- [Usage](#usage)
+- [License](#License)
 
 ## Introduction
 
@@ -16,5 +18,6 @@ This project implements an image color compression technique using a custom K-me
 - **Custom K-Means Clustering Algorithm:** Implements a custom K-means algorithm to create centroids and assign samples.
 - **Image Color Compression:** Compresses images by reducing the number of colors.
 
-
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
