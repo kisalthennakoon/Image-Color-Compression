@@ -1,6 +1,6 @@
 # Image Color Compression with Custom K-Means Clustering
 
-This project compresses images by reducing the number of colors using a custom K-means clustering algorithm. The algorithm identifies the most frequent colors in an image and compresses it to a specified number of colors, such as 16 colors for JPG images.
+This project compresses images by reducing the number of colors using a custom K-means clustering algorithm. The algorithm identifies the most frequent colors in an image and compresses it to a specified number of colors, such as 16 colors in the example in the project.
 
 ## Table of Contents
 
@@ -28,9 +28,9 @@ To run this project, you need the following libraries:
 - scikit-learn
 
 ## Usage
-1. Open the Jupyter Notebook in Weather Prediction file.
-2. Install all the requirements mentioned in under the requarements title
-3. Run all cells to and comare the images.
+1. Open the Jupyter Notebook in Image Color Compression file.
+2. Install all the libraries mentioned under the requirements title above.
+3. Run all the cells and compare the images.
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
