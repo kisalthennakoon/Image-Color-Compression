@@ -12,7 +12,7 @@ This project compresses images by reducing the number of colors using a custom K
 
 ## Introduction
 
-This project implements an image color compression technique using a custom K-means clustering algorithm which I has been developed myown to clustering. The algorithm creates centroids of clusters and assigns samples to the nearest centroid to identify the most frequent colors in an image. The compressed image is then created using these identified colors.
+This project implements an image color compression technique using a custom K-means clustering algorithm which has been developed myown to clustering. The algorithm creates centroids of clusters and assigns samples to the nearest centroid to identify the most frequent colors in an image. The compressed image is then created using these identified colors.
 
 ## Features
 
