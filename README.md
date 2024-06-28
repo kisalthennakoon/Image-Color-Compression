@@ -28,7 +28,7 @@ To run this project, you need the following libraries:
 - scikit-learn
 
 ## Usage
-1. Open the Jupyter Notebook in Image Color Compression file.
+1. Open the Jupyter Notebook in Image Color Compression folder.
 2. Install all the libraries mentioned under the requirements title above.
 3. Run all the cells and compare the images.
 
